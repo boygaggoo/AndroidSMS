@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <string name="action_settings">Settings</string>
+    <string name="app_name">SMS Driving App</string>
+    <string name="automatedWarning">[This is an automated message.] </string>
+    <string name="currentString">CURRENTLY SAVED MESSAGE:</string>
+    <string name="defaultMessage">Hey, I am driving at the moment. I\'ll respond later.</string>
+    <string name="driving_state">Press button to toggle driving state.</string>
+    <string name="input_field">Enter the message you would like sent to those who text you while driving:</string>
+    <string name="textEntry">Type message here…</string>
+
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+</resources>
